@@ -1,0 +1,7 @@
+.github/POINT/ @DIPCF/reviewers
+.github/reviewers.txt @DIPCF/administrators
+.github/maintainers.txt @DIPCF/administrators
+.github/directors.txt @DIPCF/administrators
+.github/collaborators.txt @DIPCF/administrators
+.github/CODEOWNERS @DIPCF/administrators
+.github/workflows/ @DIPCF/administrators
